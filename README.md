@@ -1,1 +1,2 @@
-# Video_Inbetweening
+# Video Inbetweening
+This repository contains the implementation of a method for generating synthetic video frames from existing motion data to aid in training motion detection and video segmentation systems. Collecting diverse and large amounts of image and video data for such tasks is costly and time-consuming due to the need for human resources. To address this challenge, we explore methods for generating new video frames from reference motion videos.
